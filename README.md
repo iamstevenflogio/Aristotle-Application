@@ -12,3 +12,6 @@ Frontend: HTML, CSS, JavaScript
 Backend: Python, Flask(In Progress)
 Database: MySQL
 Data Analytics: Python Data Science Libraries(In Progress)
+
+
+Youtube demo: https://www.youtube.com/watch?v=eguZ0TMqgGw
