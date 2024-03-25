@@ -14,4 +14,4 @@ Database: MySQL
 Data Analytics: Python Data Science Libraries(In Progress)
 
 
-Youtube demo: https://www.youtube.com/watch?v=eguZ0TMqgGw
+Youtube demo: https://www.youtube.com/watch?v=1aeChQ6BeJs&feature=youtu.be
